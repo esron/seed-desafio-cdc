@@ -11,7 +11,7 @@ import { AuthorsModule } from './authors/authors.module';
       port: 3306,
       username: 'root',
       password: 'example',
-      database: 'test',
+      database: 'codeshouse',
       entities: [Author],
       synchronize: true,
     }),
